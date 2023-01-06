@@ -1,0 +1,1 @@
+Number of Perfect Numbers: 4Number of prime numbers: 1
